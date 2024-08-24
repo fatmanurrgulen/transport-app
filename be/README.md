@@ -5,7 +5,7 @@ mySQL klasöründeki setup kurulur
 - Config Type -> Development Computer
 - TCP/IP Port 3306
 - X Protocol Port 33060
-- MySQL Root Password: FTMNur9.0!4&1:#+$gLn,
+- MySQL Root Password: Admin123
 
 1) MySQL Command Line çalıştırılır
 2) Aşağıdaki komut ile DB oluşturulur:
